@@ -1,0 +1,11 @@
+cache
+libraries
+logs
+versions
+eula.txt
+world*
+banned*
+usercache.json
+.console_history
+version_history.json
+whitelist.json
